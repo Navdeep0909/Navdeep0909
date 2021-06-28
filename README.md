@@ -1,10 +1,5 @@
 - 👋 Hi, I’m @Navdeep0909
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-Navdeep0909/Navdeep0909 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👀 I’m interested in inovative things and tech related things.
+- 🌱 I’m currently learning Android Development..
+- 💞️ I’m looking to collaborate on YouTube
+- 📫 How to reach me 
