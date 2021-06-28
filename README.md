@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Navdeep0909
+- 👋 Hi, I’m Navdeep
 - 👀 I’m interested in inovative things and tech related things.
 - 🌱 I’m currently learning Android Development..
 - 💞️ I’m looking to collaborate on YouTube
